@@ -1,4 +1,10 @@
-Flask
-opencv-python
-mediapipe
+streamlit
+streamlit-webrtc
+opencv-python-headless
 numpy
+av
+mediapipe
+insightface
+onnxruntime
+torch
+torchvision
